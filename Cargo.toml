@@ -58,7 +58,7 @@ anyhow = { workspace = true }
 async-ctrlc = "1.2.0"
 clap = { version = "4.0", features = ["cargo", "derive"] }
 dashmap = { workspace = true }
-dirs = "4.0.0"
+dirs = "5.0.1"
 dotenvy = "0.15.7"
 env_logger = "0.9"
 log = { workspace = true }
