@@ -18,7 +18,7 @@ bytes = "1"
 dashmap = { workspace = true }
 log = { workspace = true }
 quinn = { version = "0.10.2" }
-rcgen = { version = "0.10", features = ["pem", "x509-parser"] }
+rcgen = { version = "0.13", features = ["pem", "x509-parser"] }
 reqwest = { workspace = true, features = ["json"] }
 rustls = { version = "0.21.6" }
 rustls-pemfile = { workspace = true }
