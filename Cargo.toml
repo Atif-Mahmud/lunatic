@@ -56,7 +56,7 @@ lunatic-sqlite-api = { workspace = true }
 
 anyhow = { workspace = true }
 async-ctrlc = "1.2.0"
-clap = { version = "4.0", features = ["cargo", "derive"] }
+clap = { version = "4.5", features = ["cargo", "derive"] }
 dashmap = { workspace = true }
 dirs = "4.0.0"
 dotenvy = "0.15.7"
